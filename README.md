@@ -12,9 +12,6 @@ Users can select their date of birth, and the calculator will instantly show the
 HTML5 – Structure
 CSS3 – Styling and layout
 JavaScript (ES6) – Age calculation logic
-📸 Preview
-(If you want, you can add a screenshot here later.)
-![Age Calculator](image-link-here)
 📂 Project Structure
 /project-folder
 │── index.html
@@ -30,7 +27,7 @@ Days difference
 Displays the result dynamically on the screen
 🔗 Live Demo
 If you upload to GitHub Pages, add your link here:
-https://yourusername.github.io/Age-Calculator/
+https://shivaniradha.github.io/Age-Calculator-App/
 📥 How to Use
 Open the website
 Select your Date of Birth
